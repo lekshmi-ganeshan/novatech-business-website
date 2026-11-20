@@ -1,7 +1,7 @@
 
 # NovaTech Solutions – Business Website
 
-🌐 **Live Website:** https://lekhmi24.github.io/novatech-business-website/
+🌐 **Live Website:** https://lekshmi-ganeshan.github.io/novatech-business-website/
 
 
 # NovaTech Solutions – Business Website
