@@ -1,6 +1,11 @@
 
 # NovaTech Solutions – Business Website
 
+🌐 **Live Website:** https://lekhmi24.github.io/novatech-business-website/
+
+
+# NovaTech Solutions – Business Website
+
 A modern, responsive business website developed using HTML, CSS, and JavaScript.
 
 ## About the Project
